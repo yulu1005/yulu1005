@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- 奶茶風 GitHub README 🌸 -->
 
-<!--
-**yulu1005/yulu1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">你好，我是 Yulu 🧋</h2>
+<p align="center">🎓 資訊管理 / AI 與產品設計 / 喜歡語音、陪伴與人性化科技</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 關於我 About Me
+
+- 🎓 淡江大學資訊管理系在學中
+- 🤖 研究主題：語音互動、AI 陪伴系統、情緒辨識
+- 💼 曾參與多項計畫與競賽：NFT 學生證、倒數計食、虛擬實境教材等
+- 📚 自學、整理與寫作，擅長將複雜概念轉化為有溫度的應用
+- ☕ 一天一咖啡，黑眼圈靠近我
+
+---
+
+### 我的 GitHub 小成就
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yulu1005&show_icons=true&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033&icon_color=aa7e57" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulu1005&layout=compact&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033" />
+</div>
+
+---
+
+### 聯絡方式
+- Email：411630139@o365.tku.edu.tw
+
+
+---
+
+
+
