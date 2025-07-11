@@ -27,7 +27,7 @@
 
 ### 聯絡方式
 - Email：411630139@o365.tku.edu.tw
-- LinkedIn :https://www.linkedin.com/in/%E4%BC%83%E8%8F%89-%E9%BB%83-001059370/
+- LinkedIn : https://www.linkedin.com/in/yulu1005/
 
 ---
 
