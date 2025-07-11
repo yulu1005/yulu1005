@@ -1,7 +1,7 @@
 <!-- 奶茶風 GitHub README 🌸 -->
 
-<h2 align="center">你好，我是 Yulu 🧋</h2>
-<p align="center">🎓 資訊管理 / AI 與產品設計 / 喜歡語音、陪伴與人性化科技</p>
+<h2 align="center"> Hi，I'm Yulu 🧋</h2>
+<p align="center"> 資訊管理 / AI 與產品設計 </p>
 
 ---
 
