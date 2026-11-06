@@ -63,19 +63,11 @@
 
 ---
 
-### 📊 GitHub 紀錄
+### 🌱 目前正在學習
 
-<div align="center">
-  <img
-    alt="Yulu's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=yulu1005&show_icons=true&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033&icon_color=aa7e57"
-  />
-  <br><br>
-  <img
-    alt="Most used languages in Yulu's repositories"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulu1005&layout=compact&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033"
-  />
-</div>
+- **Linux 與 Docker：** 理解基本操作、容器與環境管理。
+- **AWS 雲端架構：** 學習前端託管、API 服務與資料儲存的配置方式。
+- **自動化測試：** 學習 API 測試與測試案例設計。
 
 ---
 
