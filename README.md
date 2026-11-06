@@ -1,40 +1,88 @@
-<!-- 奶茶風 GitHub README 🌸 -->
+<!-- 奶茶風 GitHub README 🧋 -->
 
-<h2 align="center"> Hi，I'm Yulu 🧋</h2>
-<p align="center"> 資訊管理 / AI 與產品設計 </p>
+<h2 align="center">Hi, I'm Yulu 🧋</h2>
 
----
+<p align="center">
+  資訊管理背景｜需求分析・專案協作・AI 應用
+</p>
 
-### 關於我 About Me
-
-- 🎓 淡江大學資管系 學士畢業(2022-2026)→台北科技大學資財系 碩士在學(2026-至今) 
-- 🤖 研究主題：語音互動、AI 陪伴系統、情緒辨識
-- 💼 曾參與多項計畫與競賽：NFT 學生證、倒數計食、虛擬實境教材等
-- 📚 自學、整理與寫作，擅長將複雜概念轉化為有溫度的應用
-- ☕ 一天一咖啡，黑眼圈靠近我
+<p align="center">
+  喜歡把討論整理成明確的需求，再一步步做成能解決問題的應用。
+</p>
 
 ---
 
-### 我的 GitHub 小成就
+### 🌷 關於我 About Me
+
+- 🎓 淡江大學資訊管理學系學士（2022–2026），系排名前 4%。
+- 📚 國立臺北科技大學資訊與財金管理系碩士在學（2026–至今）。
+- 🤖 關注 AI 應用、服務設計與流程自動化，喜歡探索科技如何改善生活。
+- 🧩 在團隊中常負責需求整理、功能規劃、任務分工與進度追蹤。
+- 🌱 持續學習 Linux、Docker 與 AWS，累積系統運作與雲端架構的基礎。
+- ☕ 一天一咖啡，和待辦清單一起努力生活。
+
+---
+
+### 🛠️ 技能與學習 Skills & Learning
+
+| 領域 | 經驗與工具 |
+| --- | --- |
+| 需求與專案協作 | 需求整理、功能規劃、任務分工、進度追蹤、文件撰寫 |
+| 程式與系統整合 | Python 基礎、API 串接、FastAPI、MongoDB |
+| AI 應用 | 語音辨識、LLM API 串接、文字轉語音、生成式 AI 輔助開發 |
+| 持續學習中 | Linux、Docker、AWS、自動化測試 |
+
+---
+
+### 🤖 代表專案 Projects
+
+#### 陪伴型照護機器人
+
+以獨居長者與家屬為服務對象，整合語音聊天、情緒關懷、
+跌倒偵測與家屬端資訊查看等功能。
+
+- **我的角色：** 專題組長，負責功能規劃、進度追蹤、部分 API 串接與系統整合。
+- **實作內容：** 串接語音辨識、AI 對話與文字轉語音，協調機器人與家屬端的互動流程。
+- **累積經驗：** 跨模組協作、問題拆解，以及前後端與資料庫的連線排查。
+
+#### NFT 學生證｜創新創業提案
+
+探索 NFT 學生證的應用情境，從使用者需求與服務流程出發，
+規劃商業提案。
+
+- 🏆 2025 淡江大學創新創業競賽第二名。
+- **專案性質：** 商業與服務規劃提案。
+
+---
+
+### ✨ 其他參與 Experiences
+
+- **AI 對話家教研究：** 獲 ICIM 2025 績優論文簡報獎。
+- **研究助理：** 參與虛擬實境教材相關計畫，協助資料整理與成果報告撰寫。
+- **企劃與競賽：** 曾參與「倒數計食」等專案，累積提案與團隊協作經驗。
+
+---
+
+### 📊 GitHub 紀錄
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yulu1005&show_icons=true&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033&icon_color=aa7e57" />
+  <img
+    alt="Yulu's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=yulu1005&show_icons=true&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033&icon_color=aa7e57"
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulu1005&layout=compact&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033" />
+  <img
+    alt="Most used languages in Yulu's repositories"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulu1005&layout=compact&hide_border=true&bg_color=f8f1ea&title_color=aa7e57&text_color=5c4033"
+  />
 </div>
 
 ---
 
-### 聯絡方式
-- Email：yuluhuang05@gmail.com
-- LinkedIn : https://www.linkedin.com/in/yulu1005/
+### 💌 聯絡我 Connect with Me
 
----
-
-### GitHub 貢獻獎盃牆
+- Email：[yuluhuang05@gmail.com](mailto:yuluhuang05@gmail.com)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yulu1005&theme=flat&no-frame=true&column=4&margin-w=15&title_color=aa7e57&text_color=5c4033&bg_color=f8f1ea" />
+  ☕ 持續學習，也持續把想法變成實際成果。
 </p>
-
-
